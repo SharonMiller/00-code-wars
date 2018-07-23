@@ -1,0 +1,8 @@
+/* Base styles include setting heading sizes, default link styles, default font styles, and body backgrounds.  */
+
+* {
+  font-family: times;
+}
+body {
+  background: #fff;
+}
